@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Tp_country</string>
+    <string name="country_rdc">RDC</string>
+    <string name="country_canada">Canada</string>
+    <string name="country_japan">Japon</string>
+    <string name="country_germany">Allemagne</string>
+    <string name="country_france">France</string>
+    <string name="country_spain">Espagne</string>
+    <string name="country_congo">Congo</string>
+    <string name="country_senegal">Sénégal</string>
+    <string name="capital_label">Capitale : %1$s</string>
+    <string name="code_label">Code : %1$s</string>
 </resources>
